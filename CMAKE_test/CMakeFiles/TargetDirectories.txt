@@ -1,0 +1,3 @@
+/home/vscode/mike/CMAKE_test/CMakeFiles/rebuild_cache.dir
+/home/vscode/mike/CMAKE_test/CMakeFiles/edit_cache.dir
+/home/vscode/mike/CMAKE_test/CMakeFiles/Demo.dir

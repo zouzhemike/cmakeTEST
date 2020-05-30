@@ -1,0 +1,7 @@
+test_run 1 0.00401798
+test_usage 0 0
+test_5_2 1 0.0024451
+test_10_5 1 0.00252432
+test_2_10 1 0.00233274
+---
+test_usage

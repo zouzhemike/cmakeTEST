@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vscode/mike/CMAKE_Demo5/config.h
+
+/home/vscode/mike/CMAKE_Demo5/main.cc
+stdio.h
+-
+stdlib.h
+-
+config.h
+/home/vscode/mike/CMAKE_Demo5/config.h
+math/MathFunctions.h
+/home/vscode/mike/CMAKE_Demo5/math/MathFunctions.h
+math.h
+-
+
+/home/vscode/mike/CMAKE_Demo5/math/MathFunctions.h
+
